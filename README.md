@@ -1,5 +1,5 @@
 Ventura/Sanoma EFI for HP Elitebook 850 G7 
-![photo_2023-09-24_01-04-05](https://github.com/Tim-Masuda/HP-Elitebook-850-G7-Hackintosh/assets/104795041/5db91140-b7fb-4c80-a4b1-41d77727c0d1)
+![photo_2023-09-24_01-04-05](https://github.com/Tim-Masuda/HP-Elitebook-850-G7-Hackintosh/assets/104795041/2b42b291-3cb8-4d00-b274-95c7b209c14a)
 =============
 
 ## Working:
@@ -32,7 +32,8 @@ sudo pmset -a disablesleep 1
 
 ## BIOS:
 
-![photo_2023-09-24_00-56-00](https://github.com/Tim-Masuda/HP-Elitebook-850-G7-Hackintosh/assets/104795041/97cef171-1021-4213-a522-860432c98bac)
+
+![photo_2023-09-24_00-56-00](https://github.com/Tim-Masuda/HP-Elitebook-850-G7-Hackintosh/assets/104795041/a2fa2584-f8c8-4d4d-a7a5-738fc3a864ab)
 
 
 
