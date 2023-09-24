@@ -3,7 +3,6 @@ Ventura/Sanoma EFI for HP Elitebook 850 G7
 =============
 
 ## Working:
-- 
 - iGPU
 - Intel Wifi
 - Bluetooth (tested only Apple devices, other should work too)
@@ -17,7 +16,7 @@ Ventura/Sanoma EFI for HP Elitebook 850 G7
 - and the rest
 
 ## Not working:
-- sleep(someone can earn money, someone does not)
+- sleep(someone may work and someone may not, an accident)
 
 
 
