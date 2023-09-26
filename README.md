@@ -38,10 +38,12 @@ sudo pmset -a disablesleep 1
 
 ## Other:
 
-to make a USB flash drive, look for an image and a program, I used BDU
-if airpods don't work for you, update kext for bluetooth both, it's not difficult just google
+to make a USB flash drive, look for an image and a program, I used BDU.
+
+If your airpods don't work, update kext for bluetooth, searh in google
 
 
 
-## Good Luck:
+Good Luck
+
 =============
